@@ -122,18 +122,22 @@ body {
 		float: left;
 	}
 
-	h1 {
+	#information-container {
 		display: inline-block;
 		vertical-align: top;
 		margin-left: 30px;
-		margin-top: 250px;
+		margin-top: 230px;
+		width: 564px;
+		text-align: center;
+	}
+
+	h1 {
 		margin-bottom: 3px;
 	}
 
 	#line-1 {
 		display: inline-block;
 		vertical-align: top;
-		margin-left: 30px;
 		height: 2px;
 		width: 425px;
 		background-color: white;
@@ -142,7 +146,6 @@ body {
 	#contact {
 		display: inline-block;
 		vertical-align: top;
-		margin-left: 30px;
 		margin-top: -5px;
 		text-align: center;
 		width: 425px;
@@ -173,15 +176,15 @@ body {
 		float: left;
 	}
 
-	#circle-1 img, #circle-2 img, #circle-3 img, #me img {
-		width: 380px;
+	#information-container {
+		display: inline-block;
+		vertical-align: top;
+		margin-top: 230px;
+		width: 388px;
+		text-align: center;
 	}
 
 	h1 {
-		display: inline-block;
-		vertical-align: top;
-		margin-left: 30px;
-		margin-top: 250px;
 		margin-bottom: 3px;
 		font-size: 25px;
 	}
@@ -189,7 +192,6 @@ body {
 	#line-1 {
 		display: inline-block;
 		vertical-align: top;
-		margin-left: 30px;
 		height: 2px;
 		width: 332px;
 		background-color: white;
@@ -198,7 +200,6 @@ body {
 	#contact {
 		display: inline-block;
 		vertical-align: top;
-		margin-left: 30px;
 		margin-top: -5px;
 		text-align: center;
 		width: 332px;
@@ -231,8 +232,12 @@ body {
 		float: none;
 	}
 
-	#circle-1 img, #circle-2 img, #circle-3 img, #me img {
-		width: 380px;
+	#information-container {
+		display: inline-block;
+		vertical-align: top;
+		margin-top: 20px;
+		width: 400px;
+		text-align: center;
 	}
 
 	h1 {
