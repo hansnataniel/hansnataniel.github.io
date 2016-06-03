@@ -172,14 +172,14 @@ body {
 	#animation-container {
 		width: 380px;
 		height: 380px;
-		margin-top: 100px;
+		margin-top: 50px;
 		float: left;
 	}
 
 	#information-container {
 		display: inline-block;
 		vertical-align: top;
-		margin-top: 230px;
+		margin-top: 180px;
 		width: 388px;
 		text-align: center;
 	}
