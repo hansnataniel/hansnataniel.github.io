@@ -167,23 +167,23 @@ body {
 	}
 
 	#animation-container {
-		width: 280px;
-		height: 280px;
+		width: 380px;
+		height: 380px;
 		margin-top: 100px;
 		float: left;
 	}
 
 	#circle-1 img, #circle-2 img, #circle-3 img, #me img {
-		width: 280px;
+		width: 380px;
 	}
 
 	h1 {
 		display: inline-block;
 		vertical-align: top;
 		margin-left: 30px;
-		margin-top: 200px;
+		margin-top: 250px;
 		margin-bottom: 3px;
-		font-size: 30px;
+		font-size: 25px;
 	}
 
 	#line-1 {
@@ -191,7 +191,7 @@ body {
 		vertical-align: top;
 		margin-left: 30px;
 		height: 2px;
-		width: 398px;
+		width: 332px;
 		background-color: white;
 	}
 
@@ -201,15 +201,15 @@ body {
 		margin-left: 30px;
 		margin-top: -5px;
 		text-align: center;
-		width: 398px;
-		font-size: 12px;
+		width: 332px;
+		font-size: 11px;
 	}
 
 	#quot {
 		display: inline-block;
 		margin-top: 10px;
 		font-style: italic;
-		font-size: 11px;
+		font-size: 10px;
 	}
 }
 
